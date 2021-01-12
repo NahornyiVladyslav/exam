@@ -1,0 +1,13 @@
+C:\Users\natal\source\repos\ExamTask\bin\Debug\netcoreapp3.1\ExamTask.exe
+C:\Users\natal\source\repos\ExamTask\bin\Debug\netcoreapp3.1\ExamTask.deps.json
+C:\Users\natal\source\repos\ExamTask\bin\Debug\netcoreapp3.1\ExamTask.runtimeconfig.json
+C:\Users\natal\source\repos\ExamTask\bin\Debug\netcoreapp3.1\ExamTask.runtimeconfig.dev.json
+C:\Users\natal\source\repos\ExamTask\bin\Debug\netcoreapp3.1\ExamTask.dll
+C:\Users\natal\source\repos\ExamTask\bin\Debug\netcoreapp3.1\ExamTask.pdb
+C:\Users\natal\source\repos\ExamTask\obj\Debug\netcoreapp3.1\ExamTask.csprojAssemblyReference.cache
+C:\Users\natal\source\repos\ExamTask\obj\Debug\netcoreapp3.1\ExamTask.AssemblyInfoInputs.cache
+C:\Users\natal\source\repos\ExamTask\obj\Debug\netcoreapp3.1\ExamTask.AssemblyInfo.cs
+C:\Users\natal\source\repos\ExamTask\obj\Debug\netcoreapp3.1\ExamTask.csproj.CoreCompileInputs.cache
+C:\Users\natal\source\repos\ExamTask\obj\Debug\netcoreapp3.1\ExamTask.dll
+C:\Users\natal\source\repos\ExamTask\obj\Debug\netcoreapp3.1\ExamTask.pdb
+C:\Users\natal\source\repos\ExamTask\obj\Debug\netcoreapp3.1\ExamTask.genruntimeconfig.cache
